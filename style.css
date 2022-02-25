@@ -1,0 +1,128 @@
+.heading{
+    border: 4px double wheat;
+text-align: center;
+    text-transform: uppercase;
+    color: yellowgreen;
+
+    
+    
+
+       
+    
+
+}
+img{
+    border-radius: 70%;
+    background-image: url("Autumn_Rocky_Mountain_Maple_Leaf copy.jpeg");
+    width: 200px;
+    float: center;
+    margin-left: 42%;
+    background-size: 12%;
+    
+
+}
+.mmm{
+    margin-top: 4%;
+    margin-left: 29%;
+}
+
+[type=text]{
+    border: 1px solid black;
+    width: 50%;
+    padding: 15px;
+    padding-right: inherit;
+    text-transform: uppercase;
+    margin-left: 15%;
+    
+    
+}
+a{
+    text-align: center;
+    padding: 15px;
+   
+    margin-top: 2%;
+    /* background-color:greenyellow; */
+    text-transform: uppercase;
+    padding-right: inherit;
+    margin-right: 1%;
+}
+
+
+
+
+
+
+    
+    [type=submit]{
+        margin-top: 20px;
+       
+        background-color: red;
+        
+
+        
+       margin-left: 15%;
+        width: 20%;
+        padding: 10px;
+        margin-top: 3%;
+}
+#btn{
+    margin: 30px 0;
+    height: 45px;
+    width: 52%;
+    position: relative;
+    left: 14%;
+   
+   
+
+  
+    
+}
+#btn:hover{
+    background-color:green;
+   
+     
+     
+ }
+ .nn{
+     margin-top: 10%;
+    
+     margin-top: inherit;
+     margin-left: 15%;
+ }
+ .psw{
+     margin-left: 15%;
+     margin-top: 2%;
+ }
+    [type=password]{
+        border: 1px solid black;
+        width: 50%;
+        padding: 15px;
+        padding-right: inherit;
+        text-transform: uppercase;
+        margin-left: 15%;
+        
+       
+    }
+   #ff{
+       border: 3px double black;
+       margin-right: 20%;
+       margin-left: 10%;
+       background-image: url("sunset-1373171__480.jpeg");
+       background-size: 300%;
+       background-repeat: no-repeat;
+       font: inherit;
+       width: 50%;
+       height: 100vh;
+       float: right;
+       bottom: 0px;
+   }
+ .check
+   {
+       text-align: left;
+       margin-top: 2%;
+       margin-left: 15%;
+   }
+    
+    
+        
+
